@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\samue\\Documents\\GitHub\\ranch3dgame\\Intermediate\\Source\\Ranch_Wrangler3D.Build.cs",
+		"C:\\Users\\samue\\Documents\\GitHub\\ranch3dgame\\Intermediate\\Source\\Ranch_Wrangler3D.Target.cs",
+		"C:\\Users\\samue\\Documents\\GitHub\\ranch3dgame\\Intermediate\\Source\\Ranch_Wrangler3DClient.Target.cs",
+		"C:\\Users\\samue\\Documents\\GitHub\\ranch3dgame\\Intermediate\\Source\\Ranch_Wrangler3DEditor.Target.cs",
+		"C:\\Users\\samue\\Documents\\GitHub\\ranch3dgame\\Intermediate\\Source\\Ranch_Wrangler3DServer.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
